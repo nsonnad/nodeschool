@@ -1,0 +1,17 @@
+{
+  "name": "learnyounode",
+  "version": "0.0.0",
+  "description": "learnyounode exercises for nodeschool.io",
+  "main": "baby-steps.js",
+  "dependencies": {
+    "bl": "~0.5.0",
+    "moment": "~2.4.0",
+    "through2-map": "~1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Sonnad",
+  "license": "BSD-2-Clause"
+}
