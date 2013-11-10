@@ -1,0 +1,16 @@
+{
+  "name": "stream-adventure",
+  "version": "0.0.0",
+  "description": "Solutions to stream-adventure",
+  "main": "1_beepBoop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "through": "~2.3.4",
+    "split": "~0.2.10",
+    "concat-stream": "~1.1.0"
+  }
+}
