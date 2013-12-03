@@ -1,6 +1,6 @@
 var level = require('level');
-var db = level(process.argv[2]);
 var data = JSON.parse(process.argv[3]);
+var db = level(process.argv[2]);
 
 for (var k in data) {
   if (data.hasOwnProperty(k)) {
